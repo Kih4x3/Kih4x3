@@ -7,18 +7,11 @@
 
 - 🌱 I’m currently learning Microsoft Azure Security, Microsoft Security  Operations Analyst and Security, Compliance, and Identity Fundamentals   ...
 
-- Currently working on Network , Cloud and Security projects and write-ups ......
+- Currently working on Network , DevSecOps, Cloud and Security projects and write-ups ......
   
-- 🔧 Toolset: Git, Docker, Kubernetes, and CI/CD pipelines.
+- 🔧 Toolset and Experience with: Git, Docker, Kubernetes, and CI/CD pipelines,mongodb,php,python,linux,postman,reactjs,OpenSSL,SIEM(Splunk),Autopsy, Vulnerability and Pentesting software and frameworks (Metasploit, Burp Suite, Nessus, MITRE ATT&CK, OWASP , PortSwigger) .
   
-- https://www.mongodb.com/
-- https://www.docker.com/
-- https://www.php.net/
-- https://www.python.org/
-- https://www.linux.org/
-- https://postman.com/
-- https://reactjs.org/
-- https://www.gnu.org/software/bash/
+
 
   
 - 📫 How to reach me #4X3#
