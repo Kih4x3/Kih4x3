@@ -16,6 +16,6 @@
   
 - 📫 How to reach me #4X3#
 - 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 404 ...
 
 
